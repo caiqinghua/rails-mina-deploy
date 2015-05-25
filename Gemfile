@@ -45,7 +45,7 @@ end
 
 #gem 'spree', git: 'git@github.com:caiqinghua/microstore.git', branch: 'master'
 #gem 'spree', github: 'caiqinghua/microstore', branch: 'master'
-gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: 'master'
+#gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: 'master'
 
 group :test, :development do
   gem 'bullet'
